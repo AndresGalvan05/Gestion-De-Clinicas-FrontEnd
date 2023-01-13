@@ -82,13 +82,3 @@ La API a utilizar sera la siguiente:
 
 Y para cada dentista en especifico:
 `https://jsonplaceholder.typicode.com/users/:id`
-
-### Formato de Entrega
-
-- No deberan cambiar los nombres ni ubicacion de las variables/componentes/context que vienen con el repo base
-
-Se aceptará la entrega mediante la submisión de la URL de su repositorio clonado
-
-El link al Google Form para la submisión será enviado por el profesor a cargo de la comisión.
-
-Mucha suerte y éxitos!
