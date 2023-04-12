@@ -1,5 +1,5 @@
 # Software de gestión de front-end para clínicas
-Sistema de reserva de citas para una clínica dental. Proyecto realizado para la asignatura Front-End III, parte del curso Certified Tech Developer realizado en Digital House. Co-creado con Jonathan Umpiérrez a partir del Repositorio Base proporcionado por el profesor de la asignatura.
+Sistema de reserva de citas para una clínica dental. Proyecto realizado para la asignatura Front-End III, parte del curso Certified Tech Developer realizado en Digital House. Co-creado con [Pablo Viera ](https://github.com/pablosergiovg) a partir del Repositorio Base proporcionado por el profesor de la asignatura.
 
 ## Requisitos:
 * Cumplir con todas las funcionalidades obligatorias.
