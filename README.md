@@ -1,6 +1,10 @@
 # Software de gestión de clínicas
 Sistema de reserva de citas para una clínica dental. Proyecto realizado para la asignatura Front-End III, parte del curso Certified Tech Developer realizado en Digital House. Co-creado con [Pablo Viera ](https://github.com/pablosergiovg) a partir del Repositorio Base proporcionado por el profesor de la asignatura.
 
+Deploy: [Clínica Odontológica ](https://gestion-de-clinicas-front-elt1jbxf1-andresgalvan05.vercel.app)
+
+![Clinica_Odontologica](https://user-images.githubusercontent.com/91505260/232113847-54220ded-1d10-434b-a780-c9b1b8d0baec.jpg)
+
 ## Requisitos:
 * Cumplir con todas las funcionalidades obligatorias.
 * Sólo se pueden utilizar las bibliotecas detalladas aquí. Ver [Dependencias ](https://github.com/Elhunter05/CTD_Final_Front_3/wiki/Dependencias)  
